@@ -1,5 +1,9 @@
 ## This repository contains a bunch of python scripts to work with electron density represented in an atomic orbital basis, such as Slater-type orbitals and Gaussian-type orbitals. 
 
+## Prerequisites
++ ```numpy```
++ ```JAX``` 
+
 ## Coordinate file format
 The coordinate file should have the following format:
 ```
