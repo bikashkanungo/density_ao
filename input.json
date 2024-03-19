@@ -1,0 +1,9 @@
+{ 
+    "sys_dir":"./example",
+    "DM_files":["DM"],
+    "coords_file":"AtomicCoords",
+    "coords_unit":"angs",
+    "quad_file":"QuadWeights",
+    "quad_unit":"bohr",
+    "out_file":"RhoSlaterData"
+}
